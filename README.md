@@ -61,7 +61,7 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 
 > Bir kaç saat sonra `http://IP:3000`  - IP düzenleyerek google'da aratın.
 
-> Sync status kısmı veya loglarda %100 bir şekilde göreceğiz.
+> Sync status kısmı veya loglarda %100 bir şekilde göreceğiz..
 
 > Node'a reset atmak isterseniz:
 
